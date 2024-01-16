@@ -7,4 +7,4 @@ This content are study note created while I learning more about agile projects m
 - Cada módulo terá seus tópicos e neles você encontrará também alguns arquivos de exercícios realizados durante o curso.
 
 - In Index file, will be to list all of modules and topics seen during the course.
-- Each module ...
+- Each module will have your topics and them you will find some exercise files done during the course.
