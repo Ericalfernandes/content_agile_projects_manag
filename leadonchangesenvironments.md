@@ -92,4 +92,22 @@ Principios da agilidade: entregar valor, colaboração com negócios, dinâmica 
     - Dinamicas em grupo;
     - Condução de cerimônias usando temas ou ferramentas diferentes;
     - Compartilhamento de histórias, filtrar e estabelecer o que é bom, o que deve ser praticado, assim como também o que não deve ser.
+
+### Desafios no treinamento Agile
+  - Gerenciar um roteiro de produto estável;
+    -  Ambição do produto: liderança do produto é muito ambiciosa do que a equipe pode entregar de forma realista;
+      - 3 ideias:
+          1. defina como lidar com novas oportunidades, quando elas são revisadas e estimadas, e como são feitos os compromissos;
+          2. Definir revisões regulares do roteiro do produto com o time (a cada trimestre)
+          3. Promover compartilhamento de conhecimento entre PO e time de desenvolvimento
+    -  Suposições do produto:
+      1. Documentar suposições,
+      2. Compartilhar, discutir com o time, verificar novamente quando for possível,
+      3. Usar pesquisas imparciais de usuários para confirmar ou rejeitar essas suposições, com formulários de pesquisa, grupos focais ou outros métodos de coletar dados objetivos dos usuários.
+  - Implementações incompletas de Scrum: implementação incompleta ou sem suporte ou apoio;
+    - Todo o conjunto é importante, os papais, atividades, artefatos
+  - Experimentar uma falta de estabilidade dentro da equipe.
+    - Bom processo de integração (rápido, rico e fluído);
+    - Programação em pares
+    - Sprints mais curtos quando houver muita rotatividade.
   
