@@ -36,24 +36,24 @@ Usar seis fontes de influência
 6 capacidade estrutural: o ambiente está ajudando ou impedindo os novos comportamentos? Ferramentas de organização de trabalho, formas de discussão, inclusão, exposição dos problemas para o time.
 
 ```
-**Exercício**
-**- Quem é meu publico alvo ao qual vou ajudar a integrar uma mudança de cultura?**
+Exercício
+- Quem é meu publico alvo ao qual vou ajudar a integrar uma mudança de cultura?
     - Alta direção da empresa
     - Gestores da operação
     - Time Scrum (UX, desenvolvedores, PO)
 
-**- Que tipo de mudança você estava tentando iniciar ou implementar?**
+- Que tipo de mudança você estava tentando iniciar ou implementar?
     - Ideia principal é incorporar o time de Produto, a cultura de Produto na empresa. Assim como, é prioridade também, entender e melhorar os produtos e seus meios de execução operacional com mais agilidade.
 
-**- De quais fontes de influência você extraiu?**
+- De quais fontes de influência você extraiu?
     - Scrum guide, patrocinadores da cultura Lean, de agilidade de gestores internos da empresa e de equipe parceira que já trabalha com a metodologia, já tem conheicmento e prática.
 
-**- Como você aplicou sua influência? Que ações específicas você tomou?**
+- Como você aplicou sua influência? Que ações específicas você tomou?
     - Diálogo com os clientes internos
     - Diálogo com o Product Owner
     - Difusão do conhecimento sobre agilidade para o time, um pouco de debate e fixação de conceitos por meios de conversas.
 
-**- Qual foi o resultado?
+- Qual foi o resultado?
     - Sem resultado concreto ainda.
 ```
 
