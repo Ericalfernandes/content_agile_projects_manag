@@ -28,12 +28,12 @@ AH: aonde queremos chegar? que valores/medidas vamos nos basear para checar? em 
 Encontrar comportamentos vitais o que dentro do time, que tipo de comportamento, fará rodar, fará ter dinâmica e envolvimento, de resultado?
 
 Usar seis fontes de influência
-1 motivação pessoal: cada um sabe seu papel de contribuição?
-2 habilidade pessoal: cada um é que capaz, tem habilidade e conhecimento para fazer o que é preciso fazer? seja como responsabilidade, mas como comunicação, fazer o processo andar
-3 motivação social: rede apoio, para encorajar os indivíduos
-4 capacidade social: a equipe tem recursos, ferramentas, espaço, presença para compartilhar resultados
-5 motivação estrutural: há motivação na realização dos novos comportamentos? fazer o certo, com a certeza de resolver a causa certo motiva também, real contribuição
-6 capacidade estrutural: o ambiente está ajudando ou impedindo os novos comportamentos? Ferramentas de organização de trabalho, formas de discussão, inclusão, exposição dos problemas para o time.
+1. motivação pessoal: cada um sabe seu papel de contribuição?
+2. habilidade pessoal: cada um é que capaz, tem habilidade e conhecimento para fazer o que é preciso fazer? seja como responsabilidade, mas como comunicação, fazer o processo andar
+3. motivação social: rede apoio, para encorajar os indivíduos
+4. capacidade social: a equipe tem recursos, ferramentas, espaço, presença para compartilhar resultados
+5. motivação estrutural: há motivação na realização dos novos comportamentos? fazer o certo, com a certeza de resolver a causa certo motiva também, real contribuição
+6. capacidade estrutural: o ambiente está ajudando ou impedindo os novos comportamentos? Ferramentas de organização de trabalho, formas de discussão, inclusão, exposição dos problemas para o time.
 
 ```
 Exercício
