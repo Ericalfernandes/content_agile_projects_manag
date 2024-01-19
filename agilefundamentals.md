@@ -1,5 +1,5 @@
 # 19/07/2023
-## Ciclos do gerenciamento de projetos
+### Ciclos do gerenciamento de projetos
  - Projeto: iniciar, planejar, executar, monitorar e encerrar;
 
 ### Tipos de abordagens para gerenciamento de projetos
@@ -26,10 +26,10 @@
   3. Entrega:
     - Cascata, geralmente se faz uma entrega, no final do projeto;
     - Agile, diferentes entregas, com a preocupação de coleta de feedback das partes interessadas e do próprio time, para permitir ajuste à mudanças e aprendizado rápido.
-# 24/07/2023
 
+# 24/07/2023
 ## Manifesto agile
-###**4 valores:**
+### **4 valores:**
  1. Indivíduos e interações acima de processos e ferramentas;
   - Comunicação entre pessoas!
   - Times trabalhem juntos.
