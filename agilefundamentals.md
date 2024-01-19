@@ -12,7 +12,8 @@
   **O que é o pensamento lean?**
   - Lean é uma filosofia de gestão inspirada em práticas e resultados do Sistema Toyota.
   - A essência é a capacidade de eliminar desperdícios continuamente e resolver problemas de maneira sistemática. 
-[!IMPORTANT] Para todo gerenciamento de projetos: É importante ter processo bem definido para gerenciamento de mudanças!
+> [!IMPORTANT]
+> Para todo gerenciamento de projetos: É importante ter processo bem definido para gerenciamento de mudanças!
 
 ### Cascata x Agile
   Principal diferença entre ambos é como se lida com os requisitos, documentação e entregas
