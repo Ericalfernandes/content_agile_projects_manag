@@ -3,9 +3,9 @@
  - Projeto: iniciar, planejar, executar, monitorar e encerrar;
 
 ### Tipos de abordagens para gerenciamento de projetos
-    - Abordagem Waterfall (Cascata): sequência linear de atividades, processo se mantém imutável, escopo bem definido, cronograma a ser respeitado;
-    - Abordagem Agile: processo iterativo, dividido para ser executado em pequenos períodos e flexível à mudanças para torná-lo cada vez mais eficiente. Vários passos podem ocorrer em paralelo.
-      - Processo flexível e focado nas pessoas, time e cliente.
+   - Abordagem Waterfall (Cascata): sequência linear de atividades, processo se mantém imutável, escopo bem definido, cronograma a ser respeitado;
+   - Abordagem Agile: processo iterativo, dividido para ser executado em pequenos períodos e flexível à mudanças para torná-lo cada vez mais eficiente. Vários passos podem ocorrer em paralelo.
+     - Processo flexível e focado nas pessoas, time e cliente.
 
 ### **Manifesto ágil é baseado em 4 valores e 12 princípios**
   Basea-se também no pensamento lean 
