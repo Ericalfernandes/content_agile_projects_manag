@@ -12,8 +12,8 @@
   **O que é o pensamento lean?**
   - Lean é uma filosofia de gestão inspirada em práticas e resultados do Sistema Toyota.
   - A essência é a capacidade de eliminar desperdícios continuamente e resolver problemas de maneira sistemática. 
-> [!IMPORTANT]
-> Para todo gerenciamento de projetos: É importante ter processo bem definido para gerenciamento de mudanças!
+ > [!IMPORTANT]
+ > Para todo gerenciamento de projetos: É importante ter processo bem definido para gerenciamento de mudanças!
 
 ### Cascata x Agile
   Principal diferença entre ambos é como se lida com os requisitos, documentação e entregas
@@ -26,3 +26,21 @@
   3. Entrega:
     - Cascata, geralmente se faz uma entrega, no final do projeto;
     - Agile, diferentes entregas, com a preocupação de coleta de feedback das partes interessadas e do próprio time, para permitir ajuste à mudanças e aprendizado rápido.
+# 24/07/2023
+
+## Manifesto agile
+###**4 valores:**
+ 1. Indivíduos e interações acima de processos e ferramentas;
+  - Comunicação entre pessoas!
+  - Times trabalhem juntos.
+  - Colaboração para atingir os mesmos resultados.
+  - Valoriza perspectivas e criatividades individuais, todo mundo pode e deve contribuir.
+ 2. Software em funcionamento (objetivo do projeto) acima de documentação abrangente;
+  - Usar o tempo priorizando o que gera valor.
+ 3. Colaboração com os clientes acima de negociação em contratos;
+  - Satisfação do cliente sempre deve ser priorizada!
+  - Colaboração do início ao fim com o cliente, feedbacks constantes, para que as equipes, os times possam reagir e se adaptar rapidamente.
+  - Inclusão do cliente ou parte interessada, com protótipos e apresentações;
+ 4. Respostas à mudanças acima de seguir um plano.
+  - Mudanças são inevitáveis;
+  - Integração de mudanças de forma eficaz, rever planos sempre que necessário.
