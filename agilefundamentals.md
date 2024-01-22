@@ -1,4 +1,5 @@
-# 19/07/2023
+# Introdução ao Agile
+## 19/07/2023
 ### Ciclos do gerenciamento de projetos
  - Projeto: iniciar, planejar, executar, monitorar e encerrar;
 
@@ -27,9 +28,9 @@
     - Cascata, geralmente se faz uma entrega, no final do projeto;
     - Agile, diferentes entregas, com a preocupação de coleta de feedback das partes interessadas e do próprio time, para permitir ajuste à mudanças e aprendizado rápido.
 
-# 24/07/2023
-## Manifesto agile
-### **4 valores:**
+## 24/07/2023
+### Manifesto agile
+**4 valores:**
  1. Indivíduos e interações acima de processos e ferramentas;
   - Comunicação entre pessoas!
   - Times trabalhem juntos.
@@ -44,3 +45,29 @@
  4. Respostas à mudanças acima de seguir um plano.
   - Mudanças são inevitáveis;
   - Integração de mudanças de forma eficaz, rever planos sempre que necessário.
+
+## 01/08/2023
+### Manifesto agile: 12 princípios! Divididos em 4 valores:
+1. Entrega de valor em espaços de tempo pequeno, para minimizar o risco de entregar algo que não agregue valor:
+ - Maior prioridade é satisfazer o cliente através de entregas contínuas de valor, desde de cedo.
+ - Trabalhar com entregas funcionais frequentes, de duas semanas a 2 meses, de preferência sempre em menor escala.
+ - Entrega funcional é a principal métrica de progresso.
+ - Simplicidade é essencial, diminuir complexidade do que se desenvolve, a arte de de maximizar trabalho não feito, que não precisa mesmo ser feito.
+ - Atenção contínua para excelência técnica e bom design aumenta a agilidade.
+2. Colaboração de negócios, ajuda a obter informações importante dos negócios para que seja possível se adaptar e agir rápido à mudanças ou novas informações.
+ - Mudanças de requisitos são bem vindos, mesmo na fase final do desenvolvimento. 
+ - Pessoas de negócios e desenvolvedores, ou executores devem trabalhar juntos diariamente pelo projeto.
+3. Times dinâmicos e cultura de time: criação de uma cultura eficaz, que é inclusiva, solidária e empoderadora.
+ - Construa projetos em torno de indivíduos motivados. Dê o ambiente e suporte que o time precisa, e confie neles a entrega do trabalho feito.
+ - A mais eficiente e efetivo método de garantir informação e alinhamento com o time de desenvolvimento é com conversação cara a cara, direta.
+ - Processos ágeis promovem desenvolvimento sustentável, todos devem ser hábeis em manter um ritmo constante.
+ - A melhor arquitetura, requisitos e designer emerge de times auto organizadas.
+4. Retrospectiva e aprendizado contínuo:
+ - Em intervalos regulares, o time reflete como se tornar mais eficaz, então sintoniza e ajusta seu comportamento de acordo.
+ - Questionamentos para melhorar?
+ - Como o time está indo?
+ - Os clientes estão satisfeitos?
+ - Os processos podem ser melhorados? Nossas ferramentas estão trabalhando para nós?
+ - Nós estamos seguindo os valores?
+ - Nós estamos acumulando alguma dívidas, processos ou tecnologias, problemas?
+
