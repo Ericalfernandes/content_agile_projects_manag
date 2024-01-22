@@ -71,3 +71,11 @@
  - Nós estamos seguindo os valores?
  - Nós estamos acumulando alguma dívidas, processos ou tecnologias, problemas?
 
+## 02/08/2023
+Agilidade (Agile) tem haver com entregar valor em um mundo incerto, com alto risco e competição. É sobre tentar, aprender, corrigir e adaptar rápido.
+VUCA: conceito de avaliação baseados em condições que afetam organizações em um ambiente de mudança e complexidade de mundo, e ajuda a definir qual abordagem de gerenciamento de projetos é melhor para aplicar em nossos negócios e projetos.
+ - V olatility (Volatilidade): Instabilidade em um negócio ou situação. Interrupções na operação, falta de ritmo estável.
+ - U ncertain (Incerteza): Alto percentual de surpresa, falta de previsibilidade. Flutuação em vendas por exemplo.
+ - C omplexity (Complexidade): elevado número de forças inter-relacionadas, problemas e fatores que influenciam os projetos. Diferentes fornecedores globais, alta variação de custos, complexidade dos produtos, mudanças de times executores...
+ - A mbiguity (Ambiguidade): possibilidade de mal entendido das condições ou causas raízes de eventos ou circunstâncias. Dificuldade em identificar causas dos atrasos do projeto, inexistência ou memo dificuldade em rastrear e estabelecer plano de mitigação de riscos.
+
