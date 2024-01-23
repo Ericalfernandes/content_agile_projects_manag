@@ -40,9 +40,10 @@
     - DEVELOPMENT TEAM
 
 ### 16/08/2023
-> [!TIP] 3 pilares:
-> transparency
-> inspection
+> [!TIP] 
+> 3 pilares:
+> transparency,
+> inspection,
 > adaptation
 
 5 values
