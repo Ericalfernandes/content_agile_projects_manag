@@ -17,7 +17,7 @@
     - Development team: executores, responsável por entregar;
    
 ### 08/08/2023 
-  - Fonte de pesquisa: Scrum guide (scrumguides.org)
+  - Fonte de pesquisa: [Scrum guide](scrumguides.org)
   - SCRUM é uma estrutura para desenvolver, entregar e sustentar produtos complexos.
   - SCRUM THEORY:
     - Iterativo, processos do projeto são repetidos;
