@@ -72,11 +72,11 @@ Mais abertura, coragem e respeito. Mais abertura para inovar, trazer simplicidad
 
 #### Papéis e responsabilidades:
   1. SM: MELHORAR EFICIÊNCIA, CONSTRUIR A COISA RAPIDAMENTE
-    - Treinar os membros da equipe em autogestão e multifuncionalidade;
-    - Entendimento e apoio do processo de implementação da metologia Scrum, práticas, valores;
-    - AJUDA O TIME A SE CONCENTRAR NA CRIAÇÃO DE INCREMENTOS DE ALTO VALOR QUE ATENDAM ÀS DEFINIÇÕES DE CONCLUSÃO;
-    - REMOVER IMPEDIMENTOS
-    - Habilidade essenciais: organização, liderança (solidária), técnicas de facilitação, treinamento e gerenciamento das partes interessadas, comunicação;
+  - Treinar os membros da equipe em autogestão e multifuncionalidade;
+  - Entendimento e apoio do processo de implementação da metologia Scrum, práticas, valores;
+  - AJUDA O TIME A SE CONCENTRAR NA CRIAÇÃO DE INCREMENTOS DE ALTO VALOR QUE ATENDAM ÀS DEFINIÇÕES DE CONCLUSÃO;
+  - REMOVER IMPEDIMENTOS
+  - Habilidade essenciais: organização, liderança (solidária), técnicas de facilitação, treinamento e gerenciamento das partes interessadas, comunicação;
 
 > [!NOTE]
 > SM X GERENTE DE PROJETOS: 
