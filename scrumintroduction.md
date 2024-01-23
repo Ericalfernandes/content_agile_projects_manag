@@ -71,40 +71,43 @@ Mais abertura, coragem e respeito. Mais abertura para inovar, trazer simplicidad
   - Are self-organizing.
 
 #### Papéis e responsabilidades:
-  1. SM: MELHORAR EFICIÊNCIA, CONSTRUIR A COISA RAPIDAMENTE
+  1. SM: MELHORAR EFICIÊNCIA, **CONSTRUIR A COISA RAPIDAMENTE**
   - Treinar os membros da equipe em autogestão e multifuncionalidade;
-  - Entendimento e apoio do processo de implementação da metologia Scrum, práticas, valores;
+  - Entendimento e apoio do processo de implementação da metodologia Scrum, práticas, valores;
   - AJUDA O TIME A SE CONCENTRAR NA CRIAÇÃO DE INCREMENTOS DE ALTO VALOR QUE ATENDAM ÀS DEFINIÇÕES DE CONCLUSÃO;
-  - REMOVER IMPEDIMENTOS
-  - Habilidade essenciais: organização, liderança (solidária), técnicas de facilitação, treinamento e gerenciamento das partes interessadas, comunicação;
+  - REMOVER IMPEDIMENTOS;
+  - Habilidades essenciais: organização, liderança (solidária), técnicas de facilitação, treinamento e gerenciamento das partes interessadas, comunicação;
 
 > [!NOTE]
 > SM X GERENTE DE PROJETOS: 
 > Um Scrum Master é responsável por ajudar a equipe a entender a teoria e a prática do Scrum. Ele garante que os eventos Scrum ocorram e ajuda a equipe a se concentrar na entrega de valor, removendo impedimentos. 
 > Mas, diferentemente de um gerente de projeto tradicional, ele não assume o gerenciamento de mudanças de escopo ou prioridades. Além disso, o Scrum Master não mantém artefatos de projeto tradicionais, como gráficos GANTT.
 
-  2. PO: ATENDER AS NECESSIDADES DOS CLIENTES, CRIANDO A COISA CERTA
-Desenvolver e comunicar explicitamente o Objetivo do Produto
-Criar e comunicar claramente os itens da Lista de Pendências do Produto (o backlog do produto contém todos os recursos, requisitos e atividades associados às entregas para atingir o objetivo do projeto)
-Garantir que o backlog do produto seja transparente, visível e compreendida
-PO X GERENTE DE PROJETO:
-o gerenciamento do escopo é a principal responsabilidade do gerente de projeto.
-a definição e gerenciamento do escopo do produto cabe ao Proprietário do Produto.
-o Proprietário do Produto não é responsável pelo desempenho da equipe, ele não é considerado um gerente. 
-O gerente de projeto lidera a equipe do projeto para atingir os objetivos do projeto e supervisiona as tarefas e o progresso.
-ambas as funções têm a tarefa de gerenciar as partes interessadas. Isso significa que ambos devem praticar e facilitar a comunicação eficaz entre os membros da equipe e as partes interessadas.
+  2. PO: ATENDER AS NECESSIDADES DOS CLIENTES, **CRIANDO A COISA CERTA**
+  - Desenvolver e comunicar explicitamente o Objetivo do Produto;
+  - Criar e comunicar claramente os itens da Lista de Pendências do Produto (o backlog do produto contém todos os recursos, requisitos e atividades associados às entregas para atingir o objetivo do projeto);
+  - Garantir que o backlog do produto seja transparente, visível e compreendido por todos;
 
-Developer team: CRIAR A COISA CORRETAMENTE
-FAZEM O TRABALHO DE CRIAR O PRODUTO (3 A 9 PESSOAS)
-HABILIDADES E CARACTERÍSTICAS:
-CROSS FUNCTIONAL
-AUTO ORGANIZÁVEL: DONAS DAS SUAS ATIVIDADES E PROCESSOS
-SUPORTAM UNS AOS OUTROS
-ORIENTADOS AO CLIENTE
-RESPONSABILIDADES:
-Criar um plano para o Sprint, a Lista de Pendências do Sprint 
-Incutir qualidade, aderindo a uma Definição de Concluído
-Adaptar seu plano a cada dia para a meta do Sprint
-Responsabilizar-se mutuamente como profissionais
-Executar sprints projetando, criando e testando itens da Lista de Pendências do Produto em incrementos
+> [!NOTE]
+> PO X GERENTE DE PROJETO:
+> o gerenciamento do escopo é a principal responsabilidade do gerente de projeto.
+> A definição e gerenciamento do escopo do produto cabe ao Proprietário do Produto.
+> O Proprietário do Produto não é responsável pelo desempenho da equipe, ele não é considerado um gerente. 
+> O gerente de projeto lidera a equipe do projeto para atingir os objetivos do projeto e supervisiona as tarefas e o progresso.
+> Ambas as funções têm a tarefa de gerenciar as partes interessadas. Isso significa que ambos devem praticar e facilitar a comunicação eficaz entre os membros da equipe e as partes interessadas.
+
+  3. Developer team: **CRIAR A COISA CORRETAMENTE**
+  - RESPONSABILIDADES:
+    - FAZEM O TRABALHO DE CRIAR O PRODUTO (3 A 9 PESSOAS);
+    - Criar um plano para o Sprint, a Lista de Pendências do Sprint;
+    - Incutir qualidade, aderindo a uma Definição de Concluído;
+    - Adaptar seu plano a cada dia para a meta do Sprint;
+    - Responsabilizar-se mutuamente como profissionais;
+    - Executar sprints projetando, criando e testando itens da Lista de Pendências do Produto em incrementos;
+  - HABILIDADES E CARACTERÍSTICAS:
+    - CROSS FUNCTIONAL;
+    - AUTO ORGANIZÁVEL: DONAS DAS SUAS ATIVIDADES E PROCESSOS
+    - SUPORTAM UNS AOS OUTROS
+    - ORIENTADOS AO CLIENTE
+
 
