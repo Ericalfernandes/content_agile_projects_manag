@@ -45,13 +45,12 @@
 > transparency,
 > inspection,
 > adaptation
-
-5 values
-Compromisso - commiment
-coragem - courage
-foco - focus
-abertura - openess
-respeito - respect
+> 5 values: 
+> Compromisso - commiment,
+> coragem - courage,
+> foco - focus,
+> abertura - openess,
+> respeito - respect
 
 ```
 Exercício
@@ -67,24 +66,24 @@ Existe um valor específico que você esteja animado para empregar no futuro?
 Mais abertura, coragem e respeito. Mais abertura para inovar, trazer simplicidade e ajudar a resolver e a escalar negócios. Coragem para tentar, aplicar, aprender e melhorar. Coragem para demonstrar minhas competências, habilidades e honestidade para meu time. Respeito para ouvir meus diferentes, estar dispostas a interagir sem julgamentos e com o intuito maior de colaborar. 
 ````
 
-Missão e visão
-Mission 
+**Missão e visão dos Scrum times:** CRIAR VALOR PARA CLIENTES E USUÁRIOS
+  - Are cross-functional;
+  - Are self-organizing.
 
-Scrum times: CRIAR VALOR PARA CLIENTES E USUÁRIOS
-Are cross-functional
-are self-organizing
+#### Papéis e responsabilidades:
+  1. SM: MELHORAR EFICIÊNCIA, CONSTRUIR A COISA RAPIDAMENTE
+    - Treinar os membros da equipe em autogestão e multifuncionalidade;
+    - Entendimento e apoio do processo de implementação da metologia Scrum, práticas, valores;
+    - AJUDA O TIME A SE CONCENTRAR NA CRIAÇÃO DE INCREMENTOS DE ALTO VALOR QUE ATENDAM ÀS DEFINIÇÕES DE CONCLUSÃO;
+    - REMOVER IMPEDIMENTOS
+    - Habilidade essenciais: organização, liderança (solidária), técnicas de facilitação, treinamento e gerenciamento das partes interessadas, comunicação;
 
-SM: MELHORAR EFICIÊNCIA, CONSTRUIR A COISA RAPIDAMENTE
-Treinar os membros da equipe em autogestão e multifuncionalidade
-Entendimento e apoio do processo de implementação da metologia Scrum, práticas, valores
-AJUDA O TIME A SE CONCENTRAR NA CRIAÇÃO DE INCREMENTOS DE ALTO VALOR QUE ATENDAM ÀS DEFINIÇÕES DE CONCLUSÃO
-REMOVER IMPEDIMENTOS
-Habilidade essenciais: organização, liderança (solidária), técnicas de facilitação, treinamento e gerenciamento das partes interessadas, comunicação
-SM X GERENTE DE PROJETOS: 
-Um Scrum Master é responsável por ajudar a equipe a entender a teoria e a prática do Scrum. Ele garante que os eventos Scrum ocorram e ajuda a equipe a se concentrar na entrega de valor, removendo impedimentos. 
-Mas, diferentemente de um gerente de projeto tradicional, ele não assume o gerenciamento de mudanças de escopo ou prioridades. Além disso, o Scrum Master não mantém artefatos de projeto tradicionais, como gráficos GANTT.
+> [!NOTE]
+> SM X GERENTE DE PROJETOS: 
+> Um Scrum Master é responsável por ajudar a equipe a entender a teoria e a prática do Scrum. Ele garante que os eventos Scrum ocorram e ajuda a equipe a se concentrar na entrega de valor, removendo impedimentos. 
+> Mas, diferentemente de um gerente de projeto tradicional, ele não assume o gerenciamento de mudanças de escopo ou prioridades. Além disso, o Scrum Master não mantém artefatos de projeto tradicionais, como gráficos GANTT.
 
-PO: ATENDER AS NECESSIDADES DOS CLIENTES, CRIANDO A COISA CERTA
+  2. PO: ATENDER AS NECESSIDADES DOS CLIENTES, CRIANDO A COISA CERTA
 Desenvolver e comunicar explicitamente o Objetivo do Produto
 Criar e comunicar claramente os itens da Lista de Pendências do Produto (o backlog do produto contém todos os recursos, requisitos e atividades associados às entregas para atingir o objetivo do projeto)
 Garantir que o backlog do produto seja transparente, visível e compreendida
