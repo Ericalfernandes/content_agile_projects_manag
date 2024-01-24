@@ -1,5 +1,6 @@
 ## 11/09/2023
 **Product Backlog**
+
 Fonte confiável de todas as coisas que um time irá trabalhar. é um artefato vivo, gerenciado somente pelo PO e este deve sempre priorizar a lista de features pela ordem de importância.
   - Recursos
   - Requisitos
@@ -16,6 +17,7 @@ Cada item do backlog, deve ter:
 This is an ongoing activity to add details, such as a description, order, and size. Attributes often vary with the domain of work.
 
 **Histórias de usuário - User stories**
+
 Método de especificação de itens do product backlog, centrado no usuário e construído para evidenciar a experiência e o valor entregue de acordo com o comportamento.
 
 Precisa atender a 6 critérios: INVEST
