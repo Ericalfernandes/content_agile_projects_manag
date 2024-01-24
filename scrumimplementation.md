@@ -47,6 +47,7 @@ Posteriormente, usando Asana para gerenciar projetos:
  1. Cria-se um projeto, usei o template de sprint planning
  2. Cria-se diferentes tasks com o título das histórias no projeto, depois em cada história, adicionei a user story em si na task, e criei sub-tasks como os critérios de aceite.
 ```
+## 5 EVENTS OF SCRUM
 
 **Backlog refinement**
 Ao invés de estimar tempo, tentamos classificar como uma estimativa relativa, comparando com outras tarefas. (unit in sizes)
@@ -54,6 +55,7 @@ Time faz por conversa ou em um evento, evento planning sprint: sprint backlog
   - 2 common methods: t-shirt sizes and story points
 
 > T shirt size: Escolhe um item que é considerado médio. Depois, pega-se o próximo e analisa, se aquele é meio, este é que tamanho? E então, é para ocorrer uma repetição a cada item do backlog;
+> 
 > Story points: um item âncora, depois pega cada um dos outros e compara ao âncora para avaliar.
 The most of the times uses the fibonacci sequence for estimate.
 Os números começam bem próximo e depois se distanciam bastante. A medida que a estimativa aumenta, com ela aumenta incerteza e risco.
@@ -67,8 +69,49 @@ Mango  5sp - inicial
 Pineapple 13sp
 Cherry 1sp
 ```
-planning poker, votação de pontos, sistema bucket, grande/incerto/pequeno, método de pedido e mapeamento de afinidade
+> planning poker, votação de pontos, sistema bucket, grande/incerto/pequeno, método de pedido e mapeamento de afinidade
+
+**Planejamento da sprint**
+
+**Daily**
+Evento realizado durante a sprint para sincronizar e se preciso priorizar atividades do dia
+> O que eu fiz ontem que ajudou o time a atingir a meta da sprint?
+> O que eu farei hoje para ajudar o time a atingir a meta da sprint?
+> Notei impedimentos que impeçam eu ou meu time de cumprir nossa meta?
+
+Review sprint: após a sprint, valores de abertura, coragem e respeito. Exercita a inspeção e adaptação
+Verificar quais itens são considerados concluídos, inspecioná-los e demonstrá-los. Bom momento para coletar feedback. Tudo que for concluído e será entregue é chamado de incremento do produto. Sempre na visão de MVP, coisas isoladas demais não contam. 
+
+Retrospectiva
+Momento de reflexão...
+
+Burndown chart
+Quantidade de histórias de usuários concluídas ao longo do tempo de uma sprint. Exemplo:
+50 pontos para serem concluídos em 15 dias. Na primeira semana, então espera-se ter concluído idealmente pelo menos a metade ou muito próximo disso.
+
+Velocidade da Sprint
+Recomenda-se calcular velocidade a partir de um histórico de resolução de histórias de usuário em cada Sprint realizada. 
+Interessante observar para o time:
+> Média de conclusão ao longo do tempo.
+> Histórico de velocidades ao longo do tempo
+
+Velocidade é importante para saber quantos itens colocar na Sprint, capacidade de resolução do time, após o refinamento e na hora de montar o backlog da Sprint.
+
+Boas práticas: 
+1. Cuidado com o anúncio público da velocidade do time sem uma devida contextualização sobre como calcular a velocidade ou sobre sua variação ao longo do tempo, deve ser usado para gerar conhecimento sobre capacidade do time e seus processos.
+2. A velocidade não deve usado como métrica de performance, para não elevar pressão do time ou mesmo ser alvo de intimidação;
+3.Não deve ser usado como métrica de comparação com outros times, cada time tem sua avaliação sobre as estimativas atribuídas, tem perfil, características únicas, então a capacidade de um time leva em consideração suas avaliações de esforço dos itens, sua velocidade, suas habilidades e por isso não deve ser comparado a outras.
+4. Pode ser usado para estimar entregas, mas não como regras ou como um compromisso negociável, para não criar muita pressão e não subestimar imprevistos e mudanças que podem ocorrer ao longo do projeto.
+
+Ferramentas visuais para acompanhar trabalho
+Kanban, bom porque é visual, organizado no sentido em que o trabalho é realizado e pode-se estabelecer limite para o que está em andamento (promover foco para o time).
+
+Ferramentas que promovem colaboração e transparência: 
+Uma ferramenta para gerenciar o backlog do produto e seus sprints de trabalho. (Jira, Asana, planilhas, trello)
+
+Ferramentas de documentação ou processamento de texto: reunir informações informações importantes para compartilhar com todos (google docs, sheets, planilhas...). Apresentações: Google slides,
+
+Colaboração e comunicação, emails, chats, virtual meetings
 
 
-**5 EVENTS OF SCRUM**
 
